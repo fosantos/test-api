@@ -1,0 +1,6 @@
+server:
+  port: 3000
+
+mongo:
+  url: "mongodb://user:password@localhost:27017/"
+  database: "testapidb"
